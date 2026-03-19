@@ -1,0 +1,24 @@
+{
+  "name": "mini-user-management-project",
+  "version": "1.0.0",
+  "description": "juste un petit projet en guise de revision sur les apis utilisant node.js, expressJS, reactJS et Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djibrilcode/Mini-User-Management-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/djibrilcode/Mini-User-Management-Project/issues"
+  },
+  "homepage": "https://github.com/djibrilcode/Mini-User-Management-Project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
